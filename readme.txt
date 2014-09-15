@@ -33,8 +33,6 @@ Horizontal scroll Google Plus images plugin is created to retrieve images from p
 * Option to set thumbnail size.
 * Fancybox option to show big images (Open images using Fancybox).
 
-= Plugin configuration =
-
 = Short code for posts and pages =
 
 Use the below short code in the pages or in the posts to render the slideshow.
@@ -50,11 +48,8 @@ Using a shortcode and the wp function do_shortcode(), you can place the plugin a
 = Frequently Asked Questions =
 
 Q1. How do I find my Google+ User ID, Google+ Album ID?
-
 Q2. How do I set a photo album to public album?
-
 Q3. How to change Left, Right arrow color?
-
 Q4. How to add this plugin into my website footer?
 
 == Installation ==
