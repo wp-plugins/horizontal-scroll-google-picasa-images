@@ -47,10 +47,10 @@ Using a shortcode and the wp function do_shortcode(), you can place the plugin a
 
 = Frequently Asked Questions =
 
-Q1. How do I find my Google+ User ID, Google+ Album ID?
-Q2. How do I set a photo album to public album?
-Q3. How to change Left, Right arrow color?
-Q4. How to add this plugin into my website footer?
+* Q1. How do I find my Google+ User ID, Google+ Album ID?
+* Q2. How do I set a photo album to public album?
+* Q3. How to change Left, Right arrow color?
+* Q4. How to add this plugin into my website footer?
 
 == Installation ==
 
