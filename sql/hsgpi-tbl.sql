@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS `hsgpi_gallery` (
+  `hsgpi_id` INT unsigned NOT NULL AUTO_INCREMENT,
+  `hsgpi_title` VARCHAR(255) NOT NULL,
+  `hsgpi_thumbwidth` INT unsigned NOT NULL default '200',
+  `hsgpi_fullwidth` INT unsigned NOT NULL default '640',
+  `hsgpi_controls` VARCHAR(5) NOT NULL default 'true',
+  `hsgpi_autointerval` VARCHAR(5) NOT NULL default 'true',
+  `hsgpi_intervaltime` INT unsigned NOT NULL default '1500',
+  `hsgpi_animation` INT unsigned NOT NULL default '1000',
+  `hsgpi_random` VARCHAR(5) NOT NULL default 'YES',
+  `hsgpi_arrowcolor` VARCHAR(10) NOT NULL default '#C01313',
+  `hsgpi_googleusername` VARCHAR(100) NOT NULL default '',
+  `hsgpi_googlealbumid` VARCHAR(200) NOT NULL default '',
+  `hsgpi_googleimgtype` VARCHAR(100) NOT NULL default 'uncropped',
+  `hsgpi_googleimgcount` INT unsigned NOT NULL default '10',
+  `hsgpi_fancybox` VARCHAR(10) NOT NULL default 'YES',
+  `hsgpi_extra2` VARCHAR(200) NOT NULL default '',
+  `hsgpi_extra3` VARCHAR(200) NOT NULL default '',
+  `hsgpi_extra4` VARCHAR(200) NOT NULL default '',
+  PRIMARY KEY (`hsgpi_id`)
+) ENGINE=MyISAM /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci*/;

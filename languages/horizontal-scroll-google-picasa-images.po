@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Horizontal scroll google picasa images\n"
+"POT-Creation-Date: 2014-09-11 22:50+0800\n"
+"PO-Revision-Date: 2014-09-11 22:50+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/hsgpi-load.php:166
+msgid "Please check your short code. Gallery does not exists for this Id."
+msgstr ""
+
+#: ../classes/hsgpi-register.php:42
+msgid "These tables could not be created on installation "
+msgstr ""
+
+#: ../classes/hsgpi-register.php:68 ../classes/hsgpi-register.php:69
+msgid "Horizontal scroll picasa images"
+msgstr ""
+
+#: ../page/hsgpi-add.php:38 ../page/hsgpi-edit.php:53
+msgid "Enter google plus username."
+msgstr ""
+
+#: ../page/hsgpi-add.php:45 ../page/hsgpi-edit.php:60
+msgid "Enter google plus album id."
+msgstr ""
+
+#: ../page/hsgpi-add.php:52 ../page/hsgpi-add.php:162
+#: ../page/hsgpi-edit.php:67 ../page/hsgpi-edit.php:153
+msgid "Enter title for your gallery."
+msgstr ""
+
+#: ../page/hsgpi-add.php:59 ../page/hsgpi-add.php:225
+#: ../page/hsgpi-edit.php:74 ../page/hsgpi-edit.php:216
+msgid "Enter auto interval time in millisecond. (Ex: 1500)"
+msgstr ""
+
+#: ../page/hsgpi-add.php:66 ../page/hsgpi-add.php:229
+#: ../page/hsgpi-edit.php:81 ../page/hsgpi-edit.php:220
+msgid "Enter animation duration in millisecond. (Ex: 1000)"
+msgstr ""
+
+#: ../page/hsgpi-add.php:86 ../page/hsgpi-add.php:173
+#: ../page/hsgpi-edit.php:101 ../page/hsgpi-edit.php:164
+msgid "Number of photos, below 20 is recommended count."
+msgstr ""
+
+#: ../page/hsgpi-add.php:96
+msgid "New details was successfully added."
+msgstr ""
+
+#: ../page/hsgpi-add.php:100 ../page/hsgpi-edit.php:115
+msgid "Oops unexpected error occurred."
+msgstr ""
+
+#: ../page/hsgpi-add.php:139 ../page/hsgpi-edit.php:130
+msgid "Click here"
+msgstr ""
+
+#: ../page/hsgpi-add.php:140 ../page/hsgpi-edit.php:131
+msgid "to view the details"
+msgstr ""
+
+#: ../page/hsgpi-add.php:150
+msgid "Add details"
+msgstr ""
+
+#: ../page/hsgpi-add.php:152 ../page/hsgpi-edit.php:143
+msgid "Google+ User ID"
+msgstr ""
+
+#: ../page/hsgpi-add.php:154 ../page/hsgpi-edit.php:145
+msgid "Enter your google plus user name."
+msgstr ""
+
+#: ../page/hsgpi-add.php:156 ../page/hsgpi-edit.php:147
+msgid "Google+ Album ID"
+msgstr ""
+
+#: ../page/hsgpi-add.php:158 ../page/hsgpi-edit.php:149
+msgid "Enter google plus album id. Click link for help making albums public. "
+msgstr ""
+
+#: ../page/hsgpi-add.php:160 ../page/hsgpi-edit.php:151
+msgid "Gallery title"
+msgstr ""
+
+#: ../page/hsgpi-add.php:164 ../page/hsgpi-edit.php:155
+msgid "Image type"
+msgstr ""
+
+#: ../page/hsgpi-add.php:169 ../page/hsgpi-edit.php:160
+msgid "Select your image type for gallery."
+msgstr ""
+
+#: ../page/hsgpi-add.php:171 ../page/hsgpi-edit.php:162
+msgid "Number of photos"
+msgstr ""
+
+#: ../page/hsgpi-add.php:175 ../page/hsgpi-edit.php:166
+msgid "Fancybox"
+msgstr ""
+
+#: ../page/hsgpi-add.php:180 ../page/hsgpi-edit.php:171
+msgid ""
+"Fancybox is a tool that offers a nice and elegant way to add zooming "
+"functionality for images."
+msgstr ""
+
+#: ../page/hsgpi-add.php:182 ../page/hsgpi-edit.php:173
+msgid "Thumbnail width"
+msgstr ""
+
+#: ../page/hsgpi-add.php:194 ../page/hsgpi-edit.php:185
+msgid "Select gallery thumbnail image width."
+msgstr ""
+
+#: ../page/hsgpi-add.php:196 ../page/hsgpi-edit.php:187
+msgid "Fullimage width"
+msgstr ""
+
+#: ../page/hsgpi-add.php:207 ../page/hsgpi-edit.php:198
+msgid "Select gallery fullimage image width."
+msgstr ""
+
+#: ../page/hsgpi-add.php:209 ../page/hsgpi-edit.php:200
+msgid "Controls"
+msgstr ""
+
+#: ../page/hsgpi-add.php:214 ../page/hsgpi-edit.php:205
+msgid "Want to use the Left, Right arrow button in your gallery?"
+msgstr ""
+
+#: ../page/hsgpi-add.php:216 ../page/hsgpi-edit.php:207
+msgid "Auto interval"
+msgstr ""
+
+#: ../page/hsgpi-add.php:221 ../page/hsgpi-edit.php:212
+msgid "Want to add auto interval to move one image from another?"
+msgstr ""
+
+#: ../page/hsgpi-add.php:223 ../page/hsgpi-edit.php:214
+msgid "Interval time"
+msgstr ""
+
+#: ../page/hsgpi-add.php:227 ../page/hsgpi-edit.php:218
+msgid "Animation"
+msgstr ""
+
+#: ../page/hsgpi-add.php:234 ../page/hsgpi-edit.php:225
+msgid "Submit"
+msgstr ""
+
+#: ../page/hsgpi-add.php:235 ../page/hsgpi-edit.php:226
+msgid "Cancel"
+msgstr ""
+
+#: ../page/hsgpi-add.php:236 ../page/hsgpi-edit.php:227
+#: ../page/hsgpi-show.php:119
+msgid "Help"
+msgstr ""
+
+#: ../page/hsgpi-edit.php:12 ../page/hsgpi-show.php:16
+msgid "Oops, selected details doesnt exist."
+msgstr ""
+
+#: ../page/hsgpi-edit.php:111
+msgid "Details was successfully updated."
+msgstr ""
+
+#: ../page/hsgpi-edit.php:141
+msgid "Edit details"
+msgstr ""
+
+#: ../page/hsgpi-show.php:31
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../page/hsgpi-show.php:44 ../page/hsgpi-show.php:118
+msgid "Add New"
+msgstr ""
+
+#: ../page/hsgpi-show.php:56 ../page/hsgpi-show.php:68
+msgid "Title"
+msgstr ""
+
+#: ../page/hsgpi-show.php:57 ../page/hsgpi-show.php:69
+msgid "Short Code"
+msgstr ""
+
+#: ../page/hsgpi-show.php:58 ../page/hsgpi-show.php:70
+msgid "Username"
+msgstr ""
+
+#: ../page/hsgpi-show.php:59 ../page/hsgpi-show.php:71
+msgid "Album Id"
+msgstr ""
+
+#: ../page/hsgpi-show.php:60 ../page/hsgpi-show.php:72
+msgid "Image Type"
+msgstr ""
+
+#: ../page/hsgpi-show.php:61
+msgid "Width"
+msgstr ""
+
+#: ../page/hsgpi-show.php:62
+msgid "Height"
+msgstr ""
+
+#: ../page/hsgpi-show.php:73
+msgid "Thumbnail"
+msgstr ""
+
+#: ../page/hsgpi-show.php:74
+msgid "Fullimage"
+msgstr ""
+
+#: ../page/hsgpi-show.php:90
+msgid "Edit"
+msgstr ""
+
+#: ../page/hsgpi-show.php:92
+msgid "Delete"
+msgstr ""
+
+#: ../page/hsgpi-show.php:108
+msgid "No records available."
+msgstr ""
