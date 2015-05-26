@@ -3,7 +3,7 @@
 Plugin Name: Horizontal scroll google picasa images
 Plugin URI: http://www.gopiplus.com/work/2014/09/10/horizontal-scroll-google-picasa-images-wordpress-plugin/
 Description: This plugin is created to retrieve images from particular google plus album (Picasa album), and display the images using Tiny Carousel light weight jquery script. It will scroll your Google Plus images in a horizontal scroll style. 
-Version: 1.1
+Version: 1.2
 Author: Gopi Ramasamy
 Donate link: http://www.gopiplus.com/work/2014/09/10/horizontal-scroll-google-picasa-images-wordpress-plugin/
 Author URI: http://www.gopiplus.com/work/2014/09/10/horizontal-scroll-google-picasa-images-wordpress-plugin/
