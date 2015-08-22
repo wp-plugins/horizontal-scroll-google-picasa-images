@@ -185,7 +185,7 @@ function hsgpi_shortcode( $atts )
 	return hsgpi_loadgallery::hsgpi_widget($arr);
 }
 
-function gmwfb( $id = "" )
+function hsgpi ( $id = "" )
 {
 	$arr = array();
 	$arr["id"] 	= $id;
