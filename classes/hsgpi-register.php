@@ -39,14 +39,14 @@ class hsgpi_registerhook
 		// Add error in to array variable
         if($missingtables) 
 		{
-			$errors[] = __('These tables could not be created on installation ' . implode(', ',$missingtables), HSGPI_TDOMAIN);
+			$errors[] = __('These tables could not be created on installation ' . implode(', ',$missingtables), 'horizontal-scroll-google-picasa-images');
             $has_errors=true;
         }
 		
 		// If error call wp_die()
         if($has_errors) 
 		{
-			wp_die( __( $errors[0] , HSGPI_TDOMAIN ) );
+			wp_die( __( $errors[0] , 'horizontal-scroll-google-picasa-images' ) );
 			return false;
 		}
 		else
@@ -65,8 +65,8 @@ class hsgpi_registerhook
 	{
 		if (is_admin()) 
 		{
-			add_options_page( __('Horizontal scroll picasa images', HSGPI_TDOMAIN), 
-				__('Horizontal scroll picasa images', HSGPI_TDOMAIN), 'manage_options', HSGPI_PLUGIN_NAME, array( 'hsgpi_intermediate', 'hsgpi_admin' ) );
+			add_options_page( __('Horizontal scroll picasa images', 'horizontal-scroll-google-picasa-images'), 
+				__('Horizontal scroll picasa images', 'horizontal-scroll-google-picasa-images'), 'manage_options', HSGPI_PLUGIN_NAME, array( 'hsgpi_intermediate', 'hsgpi_admin' ) );
 		}		
 	}
 }

@@ -165,7 +165,7 @@ class hsgpi_loadgallery
 		}
 		else
 		{
-			$hsgpi = __('Please check your short code. Gallery does not exists for this Id.', HSGPI_TDOMAIN);
+			$hsgpi = __('Please check your short code. Gallery does not exists for this Id.', 'horizontal-scroll-google-picasa-images');
 		}		
 		return $hsgpi;
 	}

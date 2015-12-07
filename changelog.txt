@@ -23,3 +23,8 @@ using Tiny Carousel light weight jquery script. It will scroll your Google Plus 
 ********************************Version 1.3************************************************************
 
 1. Tested up to 4.3
+
+********************************Version 1.4************************************************************
+
+1. Tested up to 4.4
+2. Text Domain slug has been added for Language Packs.

@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/09/10/horizontal-scroll-google-pic
 Plugin URI: http://www.gopiplus.com/work/2014/09/10/horizontal-scroll-google-picasa-images-wordpress-plugin/
 Tags: tiny, carousel, horizontal, slider, picasa
 Requires at least: 3.4
-Tested up to: 4.3
-Stable tag: 1.3
+Tested up to: 4.4
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -92,6 +92,11 @@ Answer : http://www.gopiplus.com/work/2014/09/10/horizontal-scroll-google-picasa
 
 1. Tested up to 4.3
 
+= 1.4 =
+
+1. Tested up to 4.4
+2. Text Domain slug has been added for Language Packs.
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -109,3 +114,8 @@ Answer : http://www.gopiplus.com/work/2014/09/10/horizontal-scroll-google-picasa
 = 1.3 =
 
 1. Tested up to 4.3
+
+= 1.4 =
+
+1. Tested up to 4.4
+2. Text Domain slug has been added for Language Packs.
